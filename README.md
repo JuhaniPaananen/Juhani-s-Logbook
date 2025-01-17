@@ -2,9 +2,12 @@
 
 This is my logbook.
 
-| Date  | Topic |  output |
+| Day  | Topic | Output |
 | :---         |     :---:      |     :---:      |
-| 8.1.2024 | School day | Studying/working  |
-| 9.1.2024 | School day | Studying/working  |
-| 10.1.2024 | School day | Studying/working  |
-| 11.1.2024 | Break day | Freetime |
+| Monday | School day | Studying/working  |
+| Tuesday | School day | Studying/working  |
+| Wendesday | School day | Studying/working  |
+| Thursday | School day | Studying/working  |
+| Friday | School day | Studying/working  |
+| Saturday | Break day | Freetime |
+| Sunday | Break day | Freetime |
