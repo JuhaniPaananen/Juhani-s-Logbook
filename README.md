@@ -8,3 +8,4 @@ This is my logbook.
 | Monday 20.1.25 | Introduction + Enviroument exploration + Lab: (Access control vulnerabilities) Unprotected admin functionality | 20 minutes  |
 |  | Burp Installation + Lab: (Authentication) Username enumeration via different responses | 1 hour  |
 |  | Lab: (SQL injection) SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | 20 minutes  |
+| Thursday 23.1 | Lab: (Authentication) 2FA simple bypass | |
