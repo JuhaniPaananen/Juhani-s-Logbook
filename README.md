@@ -9,3 +9,4 @@ This is my logbook.
 |  | Burp Installation + Lab: (Authentication) Username enumeration via different responses | 1 hour  |
 |  | Lab: (SQL injection) SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | 20 minutes  |
 | Thursday 23.1 | Lab: (Authentication) 2FA simple bypass + Lab: Unprotected admin functionality with unpredictable URL | 30 minutes |
+|  | Lab: (SQL injection) SQL injection vulnerability allowing login bypass | 20 minutes |
