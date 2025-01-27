@@ -10,4 +10,4 @@ This is my logbook.
 |  | Lab: (SQL injection) SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | 20 minutes  |
 | Thursday 23.1 | Lab: (Authentication) 2FA simple bypass + Lab: Unprotected admin functionality with unpredictable URL | 30 minutes |
 |  | Lab: (SQL injection) SQL injection vulnerability allowing login bypass | 20 minutes |
-| Monday 27.1  | Model 1: Done | 1 hour 20 minutes |
+| Monday 27.1  | Model 1: Complete + Exam | 1 hour 30 minutes |
