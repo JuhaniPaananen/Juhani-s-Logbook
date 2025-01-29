@@ -1,6 +1,6 @@
 # Juhani-s-Logbook
 
-This is my logbook. Total. 7 hours
+This is my logbook. Total. 8 hours 30 minutes
 | If day is empty, then it's same as next above  |  |  |
 | Day  | Topic / Task | Amount time used in a day to fulfill the topic/task |
 | :---         |     :---:      |     :---:      |
@@ -12,3 +12,4 @@ This is my logbook. Total. 7 hours
 |  | Lab: (SQL injection) SQL injection vulnerability allowing login bypass | 20 minutes |
 | Monday 27.1  | Model 1: Complete + Exam | 1 hour 30 minutes |
 | Wendesday 27.1  | Model 2: Complete + Exam | 1 hour |
+|  | Model 3: Complete + Exam | 1 hour 30 minutes |
