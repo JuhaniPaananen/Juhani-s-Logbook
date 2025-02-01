@@ -1,6 +1,6 @@
 # Juhani-s-Logbook
 
-This is my logbook. Total. 9 hours 35 minutes
+This is my logbook. Total. 10 hours 35 minutes
 | If day is empty, then it's same as next above  |  |  |
 | Day  | Topic / Task | Amount time used in a day to fulfill the topic/task |
 | :---         |     :---:      |     :---:      |
@@ -15,3 +15,4 @@ This is my logbook. Total. 9 hours 35 minutes
 |  | Model 3: Complete + Exam | 1 hour 30 minutes |
 | Thursday 30.1  | Model 4: Complete + Exam | 45 minutes |
 | Friday 31.1  | Model 5: Complete + Exam | 20 minutes |
+| Saturday 1.2  | Model Final: Exam | 1 hour |
