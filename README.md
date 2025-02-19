@@ -16,3 +16,4 @@ This is my logbook. Total. 10 hours 35 minutes
 | Thursday 30.1  | Model 4: Complete + Exam | 45 minutes |
 | Friday 31.1  | Model 5: Complete + Exam | 20 minutes |
 | Saturday 1.2  | Model Final: Exam | 1 hour |
+| Sunday-Monday-Thuesday-Wendesday  16,17,18,19.2 | Peneration test and all hassle with it | 9 hour |
