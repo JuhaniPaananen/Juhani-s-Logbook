@@ -25,5 +25,5 @@ Second Test Results:
 
 ## Appendices (Liitteet)
 
-- ZAP report: Report.md
-- ZAP report: Report2.md
+- ZAP report: \Checkmarx ZAP report\[Report.md](https://github.com/JuhaniPaananen/Juhani-s-Logbook/blob/main/Checkmarx%20ZAP%20report/Report.md)
+- ZAP report: \Checkmarx ZAP report\[Report2.md](https://github.com/JuhaniPaananen/Juhani-s-Logbook/blob/main/Checkmarx%20ZAP%20report/Report2.md)
