@@ -15,7 +15,7 @@ First Test Results:
 | Medium | Content Security Policy (CSP) Header Not Set | No header was used to prevent cross-site scripting (XSS), data injection attacks, and other malicious exploits by restricting the sources from which content (scripts, styles, images, etc.) can be loaded. |
 | Medium | Missing Anti-clickjacking Header | No anti-clickjacking protection header was used, leaving application vulnerable to clickjacking attacks. That can lead users into malicious sites. |
 | Low | Application Error Disclosure | Means that application is exposing internal error messages to users like: Server paths. |
-| Low | X-Content-Type-Options Header Missing |  |
+| Low | X-Content-Type-Options Header Missing | No protection header, which helps prevent MIME-type sniffing attacks.  |
 | Informational | User Controllable HTML Element Attribute (Potential XSS) |  |
 
 Second Test Results: (Non was found)
