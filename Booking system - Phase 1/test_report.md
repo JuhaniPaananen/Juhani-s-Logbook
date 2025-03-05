@@ -14,11 +14,11 @@ First Test Results:
 | Medium | Content Security Policy (CSP) Wildcard Directive | Refers to the use of wildcard values just as: (*) in a CSP configuration, which can weaken security by allowing broader, potentially unsafe resource loading |
 | Medium | Content Security Policy (CSP) Header Not Set | No header was used to prevent cross-site scripting (XSS), data injection attacks, and other malicious exploits by restricting the sources from which content (scripts, styles, images, etc.) can be loaded. |
 | Medium | Missing Anti-clickjacking Header | No anti-clickjacking protection header was used, leaving application vulnerable to clickjacking attacks. That can lead users into malicious sites. |
-| Low | Application Error Disclosure |  |
+| Low | Application Error Disclosure | Means that application is exposing internal error messages to users like: Server paths. |
 | Low | X-Content-Type-Options Header Missing |  |
 | Informational | User Controllable HTML Element Attribute (Potential XSS) |  |
 
-Second Test Results:
+Second Test Results: (Non was found)
 | Risk Level | Subject | Short Description |
 | :---         |     :---:      |     :---:      |
 |  |  |  |
