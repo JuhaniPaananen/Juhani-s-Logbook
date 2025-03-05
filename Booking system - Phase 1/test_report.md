@@ -11,7 +11,7 @@ Noting that docker was broken before doing second test peneration and it had to 
 First Test Results:
 | Risk Level | Subject | Short Description |
 | :---         |     :---:      |     :---:      |
-| Medium | Content Security Policy (CSP) Wildcard Directive |  |
+| <span style="color:red">Medium</span> | Content Security Policy (CSP) Wildcard Directive |  |
 | Medium | Content Security Policy (CSP) Header Not Set |  |
 | Medium | Missing Anti-clickjacking Header |  |
 | Low | Application Error Disclosure |  |
@@ -27,11 +27,3 @@ Second Test Results:
 
 - ZAP report: Report.md
 - ZAP report: Report2.md
-
-- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
