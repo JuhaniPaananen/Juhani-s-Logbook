@@ -16,7 +16,7 @@ First Test Results:
 | Medium | Missing Anti-clickjacking Header | No anti-clickjacking protection header was used, leaving application vulnerable to clickjacking attacks. That can lead users into malicious sites. |
 | Low | Application Error Disclosure | Means that application is exposing internal error messages to users like: Server paths. |
 | Low | X-Content-Type-Options Header Missing | No protection header, which helps prevent MIME-type sniffing attacks.  |
-| Informational | User Controllable HTML Element Attribute (Potential XSS) |  |
+| Informational | User Controllable HTML Element Attribute (Potential XSS) | This means application allows users to control HTML attributes, which could lead to Cross-Site Scripting (XSS) attacks. |
 
 Second Test Results: (Non was found)
 | Risk Level | Subject | Short Description |
