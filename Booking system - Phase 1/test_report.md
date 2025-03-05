@@ -11,7 +11,7 @@ Noting that docker was broken before doing second test peneration and it had to 
 First Test Results:
 | Risk Level | Subject | Short Description |
 | :---         |     :---:      |     :---:      |
-| Medium | Content Security Policy (CSP) Wildcard Directive |  |
+| Medium | Content Security Policy (CSP) Wildcard Directive | Refers to the use of wildcard values just as: (*) in a CSP configuration, which can weaken security by allowing broader, potentially unsafe resource loading |
 | Medium | Content Security Policy (CSP) Header Not Set |  |
 | Medium | Missing Anti-clickjacking Header |  |
 | Low | Application Error Disclosure |  |
