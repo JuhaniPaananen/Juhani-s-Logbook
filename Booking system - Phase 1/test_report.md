@@ -11,12 +11,22 @@ Noting that docker was broken before doing second test peneration and it had to 
 First Test Results:
 | Risk Level | Subject | Short Description |
 | :---         |     :---:      |     :---:      |
-| <span style="color:red">Medium</span> | Content Security Policy (CSP) Wildcard Directive |  |
+| Medium | Content Security Policy (CSP) Wildcard Directive |  |
 | Medium | Content Security Policy (CSP) Header Not Set |  |
 | Medium | Missing Anti-clickjacking Header |  |
 | Low | Application Error Disclosure |  |
 | Low | X-Content-Type-Options Header Missing |  |
 | Informational | User Controllable HTML Element Attribute (Potential XSS) |  |
+
+| Risk Level | Subject | Short Description |
+| :---         |     :---:      |     :---:      |
+| <span style="color:orange">Medium</span> | Content Security Policy (CSP) Wildcard Directive |  |
+| <span style="color:orange">Medium</span> | Content Security Policy (CSP) Header Not Set |  |
+| <span style="color:orange">Medium</span> | Missing Anti-clickjacking Header |  |
+| Low | Application Error Disclosure |  |
+| Low | X-Content-Type-Options Header Missing |  |
+| Informational | User Controllable HTML Element Attribute (Potential XSS) |  |
+
 
 Second Test Results:
 | Risk Level | Subject | Short Description |
