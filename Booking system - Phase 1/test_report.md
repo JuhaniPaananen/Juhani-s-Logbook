@@ -23,7 +23,7 @@ Second Test Results: (Non was found)
 | :---         |     :---:      |     :---:      |
 |  |  |  |
 
-## Appendices (Liitteet)
+## Appendices
 
 - ZAP report: \Checkmarx ZAP report\ [Report.md](https://github.com/JuhaniPaananen/Juhani-s-Logbook/blob/main/Checkmarx%20ZAP%20report/Report.md)
 - ZAP report: \Checkmarx ZAP report\ [Report2.md](https://github.com/JuhaniPaananen/Juhani-s-Logbook/blob/main/Checkmarx%20ZAP%20report/Report2.md)
