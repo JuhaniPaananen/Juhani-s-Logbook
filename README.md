@@ -18,3 +18,4 @@ This is my logbook. Total. 10 hours 35 minutes
 | Saturday 1.2  | Model Final: Exam | 1 hour |
 | Saturday-Sunday-Monday-Thuesday-Wendesday  15,16,17,18,19.2 |  Booking system - Phase 1 and all hassle with it | 10 hour |
 | Monday-Tuesday-Wendesday 3,4,5.3 | Booking system - Phase 1 -> Part 2 | 4 hour |
+| Monday-Tuesday-Wendesday-Tuesday 10,11,12,13 | Booking system - Phase 2 -> Part 1 and just all the time trying and installing kali again | 10 hour |
