@@ -1,7 +1,7 @@
 
 
 | Account | Command | Time | Password |
-| :---         |     :---:      |     :---:      |
+| :---         |     :---:      |     :---:      |    :---:      |
 | whatsupdoc@looneytunes.tv | hashcat -m 0 -a 0 hash.txt --force -w 3 | 30 seconds |carrots123|
 | doh@springfieldpower.net | hashcat -m 0 -a 0 hash.txt --force -w 3 | 30 seconds |donuts4life|
 | darkknight@gothamwatch.org | hashcat -m 0 -a 0 hash.txt iamven?a?a?a?a?a?a --force -w 3 | 30 seconds |iamvengeance|
