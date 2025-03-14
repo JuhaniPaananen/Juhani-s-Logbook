@@ -1,6 +1,6 @@
 # Juhani-s-Logbook
 
-This is my logbook. Total. 10 hours 35 minutes
+This is my logbook. Total. 36 hours and 5 minutes
 | If day is empty, then it's same as next above  |  |  |
 | Day  | Topic / Task | Amount time used in a day to fulfill the topic/task |
 | :---         |     :---:      |     :---:      |
