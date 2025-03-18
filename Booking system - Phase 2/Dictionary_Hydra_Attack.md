@@ -1,4 +1,4 @@
-# Hydra Attack
+# Dictionary Hydra Attack
 
 ### Command
 I used following command to attack the webpage: 
