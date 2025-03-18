@@ -6,6 +6,9 @@ hydra -L user.txt -P password.txt 127.0.0.1 -s 8000 http-post-form "/login:usern
 There is that one part, that made it possible for me to do it and it was: -s 8000.
 I was using first 127.0.0.1:8000, but it did not work for me.
 
+### Time
+Time was about 10 seconds.
+
 ### Output of the Hydra Attack
 
 Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2025-03-18 13:50:49
