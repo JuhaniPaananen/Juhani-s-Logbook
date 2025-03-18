@@ -1,6 +1,6 @@
 # Juhani-s-Logbook
 
-This is my logbook. Total. 36 hours and 5 minutes
+This is my logbook. Total. 37 hours and 20 minutes
 | If day is empty, then it's same as next above  |  |  |
 | Day  | Topic / Task | Amount time used in a day to fulfill the topic/task |
 | :---         |     :---:      |     :---:      |
@@ -19,3 +19,4 @@ This is my logbook. Total. 36 hours and 5 minutes
 | Saturday-Sunday-Monday-Thuesday-Wendesday  15,16,17,18,19.2 |  Booking system - Phase 1 and all hassle with it | 10 hour |
 | Monday-Tuesday-Wendesday 3,4,5.3 | Booking system - Phase 1 -> Part 2 | 4 hour |
 | Monday-Tuesday-Wendesday-Tuesday 10,11,12,13 | Booking system - Phase 2 -> Part 1 and just all the time trying and installing kali again | 10 hour |
+| Tuesday 18.3  | Hydra Attack | 1 hour and 15 minutes |
