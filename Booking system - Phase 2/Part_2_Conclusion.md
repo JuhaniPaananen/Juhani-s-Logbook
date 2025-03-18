@@ -6,4 +6,4 @@ When it comes to Hydra, it was like zaproxy with extra steps. I did not get it t
 
 - What would you recommend as a penetration tester to the developer of the application you are testing?
 
-It depends, what kind of developer is in the question. If your want to go easy, when testing any website, then Zaproxy. Else then developer should go Hydra or Burp.
+It depends, what kind of developer is in the question. If your want to go easy, when testing any website, then Zaproxy. Else then developer should go for Hydra or Burp.
