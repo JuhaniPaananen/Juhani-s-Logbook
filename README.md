@@ -1,7 +1,7 @@
 # Juhani-s-Logbook
 
 This is my logbook. Total. 41 hours and 20 minutes
-| If day is empty, then it's same as next above  |  |  |
+If day is empty, then it's same as next above.
 | Day  | Topic / Task | Amount time used in a day to fulfill the topic/task |
 | :---         |     :---:      |     :---:      |
 | Friday 17.1.25 | Login, introduction and getting basics ready | 2 hours  |
