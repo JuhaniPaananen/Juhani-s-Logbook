@@ -1,6 +1,9 @@
 # Juhani-s-Logbook
 
 This is my logbook. Total. 47 hours and 20 minutes. Labs Done: 8
+
+
+
 If day is empty, then it's same as next above.
 | Day  | Topic / Task | Amount time used in a day to fulfill the topic/task |
 | :---         |     :---:      |     :---:      |
