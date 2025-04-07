@@ -1,6 +1,6 @@
 # Juhani-s-Logbook
 
-This is my logbook. Total. 45 hours and 20 minutes
+This is my logbook. Total. 46 hours and 20 minutes
 If day is empty, then it's same as next above.
 | Day  | Topic / Task | Amount time used in a day to fulfill the topic/task |
 | :---         |     :---:      |     :---:      |
@@ -23,3 +23,4 @@ If day is empty, then it's same as next above.
 | Wendesday 19.3  | Burp Suite Attack && The Booking system project → Phase 2 → Part 2 | 1 hour |
 | Wendesday 28-29.3  | The Booking system project → Phase 3 Preparation | 3 hour |
 | Wendesday 2.4  | The Booking system project → Phase 3 Parts 1 to 5 Done | 4 hour |
+| Wendesday 2.4  | The Booking system project → Phase 3 Part 5 Done | 1 hour |
