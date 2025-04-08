@@ -19,13 +19,13 @@ If day is empty, then it's same as next above.
 | Thursday 30.1  | Model 4: Complete + Exam | 45 minutes |
 | Friday 31.1  | Model 5: Complete + Exam | 20 minutes |
 | Saturday 1.2  | Model Final: Exam | 1 hour |
-| Saturday-Sunday-Monday-Thuesday-Wendesday  15,16,17,18,19.2 |  Booking system - Phase 1 and all hassle with it | 10 hour |
-| Monday-Tuesday-Wendesday 3,4,5.3 | Booking system - Phase 1 -> Part 2 | 4 hour |
-| Monday-Tuesday-Wendesday-Tuesday 10,11,12,13 | Booking system - Phase 2 -> Part 1 and just all the time trying and installing kali again | 10 hour |
+| Saturday-Sunday-Monday-Thuesday-Wendesday  15,16,17,18,19.2 |  Booking system - Phase 1 and all hassle with it | 10 hours |
+| Monday-Tuesday-Wendesday 3,4,5.3 | Booking system - Phase 1 -> Part 2 | 4 hours |
+| Monday-Tuesday-Wendesday-Tuesday 10,11,12,13 | Booking system - Phase 2 -> Part 1 and just all the time trying and installing kali again | 10 hours |
 | Tuesday 18.3  | Hydra Attack | 1 hour and 15 minutes |
 | Wendesday 19.3  | Burp Suite Attack && The Booking system project → Phase 2 → Part 2 | 1 hour |
-| Wendesday 28-29.3  | The Booking system project → Phase 3 Preparation | 3 hour |
-| Wendesday 2.4  | The Booking system project → Phase 3 Parts 1 to 5 Done | 4 hour |
+| Wendesday 28-29.3  | The Booking system project → Phase 3 Preparation | 3 hours |
+| Wendesday 2.4  | The Booking system project → Phase 3 Parts 1 to 5 Done | 4 hours |
 |   | The Booking system project → Phase 3 Part 5 Done | 1 hour |
 | Monday 7.4  | Lab: SQL injection attack, querying the database type and version on Oracle & Lab: User role controlled by request parameter | 1 hour |
-| Tuesday 8.4  | Lab: User role can be modified in user profile & Lab: Password reset broken logic | 2 |
+| Tuesday 8.4  | Lab: User role can be modified in user profile & Lab: Password reset broken logic | 2 hours |
