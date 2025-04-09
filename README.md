@@ -1,6 +1,6 @@
 # Juhani-s-Logbook
 
-This is my logbook. Total. 49 hours and 20 minutes. Labs Done: 10
+This is my logbook. Total. 51 hours and 20 minutes. Labs Done: 11
 
 
 
@@ -29,3 +29,5 @@ If day is empty, then it's same as next above.
 |   | The Booking system project → Phase 3 Part 5 Done | 1 hour |
 | Monday 7.4  | Lab: SQL injection attack, querying the database type and version on Oracle & Lab: User role controlled by request parameter | 1 hour |
 | Tuesday 8.4  | Lab: User role can be modified in user profile & Lab: Password reset broken logic | 2 hours |
+| Wendes 9.4  | Lab: Username enumeration via subtly different responses | 2 hours |
+
