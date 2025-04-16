@@ -30,4 +30,5 @@ If day is empty, then it's same as next above.
 | Monday 7.4  | Lab: SQL injection attack, querying the database type and version on Oracle & Lab: User role controlled by request parameter | 1 hour |
 | Tuesday 8.4  | Lab: User role can be modified in user profile & Lab: Password reset broken logic | 2 hours |
 | Wendes 9.4  | Lab: Username enumeration via subtly different responses | 2 hours |
+| Wendes 16.4  | Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft && Lab: User ID controlled by request parameter && Lab: User ID controlled by request parameter, with unpredictable user IDs | 30 minutes |
 
