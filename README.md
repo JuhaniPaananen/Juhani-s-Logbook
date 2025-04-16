@@ -1,6 +1,6 @@
 # Juhani-s-Logbook
 
-This is my logbook. Total. 51 hours and 20 minutes. Labs Done: 11
+This is my logbook. Total. 51 hours and 50 minutes. Labs Done: 14
 
 
 
