@@ -1,6 +1,6 @@
 # Juhani-s-Logbook
 
-This is my logbook. Total. 57 hours and 50 minutes. Labs Done: 14
+This is my logbook. Total. 58 hours and 50 minutes. Labs Done: 15
 
 
 
@@ -33,4 +33,5 @@ If day is empty, then it's same as next above.
 | Monday-Tuesday 14-15.4  | PARTLY DONE The Booking system project → Phase 4 | 4 hours |
 | Wendesday 16.4  | Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft && Lab: User ID controlled by request parameter && Lab: User ID controlled by request parameter, with unpredictable user IDs | 30 minutes |
 | Wendesday 16.4  | FINALLYZING The Booking system project → Phase 4 | 2 hours |
+| Thursday 17.4  | TRIED TO DO HARDER LABS and Lab: User ID controlled by request parameter with data leakage in redirect | 1 hour |
 
