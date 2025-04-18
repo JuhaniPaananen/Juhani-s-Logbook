@@ -1,6 +1,6 @@
 # Juhani-s-Logbook
 
-This is my logbook. Total. 58 hours and 50 minutes. Labs Done: 15
+This is my logbook. Total. 59 hours and 20 minutes. Labs Done: 19
 
 
 
@@ -34,4 +34,26 @@ If day is empty, then it's same as next above.
 | Wendesday 16.4  | Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft && Lab: User ID controlled by request parameter && Lab: User ID controlled by request parameter, with unpredictable user IDs | 30 minutes |
 | Wendesday 16.4  | FINALLYZING The Booking system project → Phase 4 | 2 hours |
 | Thursday 17.4  | TRIED TO DO HARDER LABS and Lab: User ID controlled by request parameter with data leakage in redirect | 1 hour |
+| Friday 18.4  | Lab: DOM XSS in innerHTML sink using source location.search && Lab: DOM XSS in document.write sink using source location.search && Lab: Reflected XSS into HTML context with nothing encoded && Lab: Stored XSS into HTML context with nothing encoded | 30 minutes |
 
+
+# Completed Labs:
+1 Lab: (Access control vulnerabilities) Unprotected admin functionality
+2 Lab: (Authentication) Username enumeration via different responses
+3 Lab: (SQL injection) SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+4 Lab: (Authentication) 2FA simple bypass
+5 Lab: Unprotected admin functionality with unpredictable URL
+6 Lab: User role can be modified in user profile
+7 Lab: Password reset broken logic
+8 Lab: Username enumeration via subtly different responses
+9 Lab: User ID controlled by request parameter
+10 Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft
+11 Lab: User ID controlled by request parameter with data leakage in redirect
+12 Lab: DOM XSS in document.write sink using source location.search
+13 Lab: DOM XSS in innerHTML sink using source location.search
+14 Lab: Reflected XSS into HTML context with nothing encoded
+15 Lab: Stored XSS into HTML context with nothing encoded
+16 Lab: (SQL injection) SQL injection vulnerability allowing login bypass
+17 Lab: User ID controlled by request parameter, with unpredictable user IDs
+18 Lab: SQL injection attack, querying the database type and version on Oracle
+19 Lab: User role can be modified in user profile & Lab: Password reset broken logic
