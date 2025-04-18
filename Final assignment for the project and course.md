@@ -37,9 +37,13 @@ Olen oppinut kuinka hyökkäyksiä tai muita häiriöitä tehdään, mutta en ni
 
 #  The Booking system project
 
-### The Booking system project → Phase 1 → Part 1
-### The Booking system project → Phase 1 → Part 2
-### The Booking system project → Phase 2 → Part 1
-### The Booking system project → Phase 2 → Part 2
+### The Booking system project → Phase 1
+Suhteellisen helppo oli vielä. Kalin asennus oli vaikein asia, sillä se meni aivan pieleen ensimmäisen kerran, että mikään ei toiminut. Sen jälkeen ja kun asiat tuli ymmärrettyä, kaikki meni mutkitta.
+
+### The Booking system project → Phase 2
+Tämä oli varsin hupaisa. Oli hyvä antaa niitä vinkkejä niin salasanoihin, muuten en olisi saanut mitään selvitettyä tämän koneen tehoilla. Kalin uudestaan asennus oli tässäkin ongelma, kun jotenkin Kali ei halunnut enää käynnistyä, joten sen takia piti asentaa uudestaan. Muuten meni ihan hyvin.
+
 ### The Booking system project → Phase 3
+
+
 ### The Booking system project → Phase 4
