@@ -58,3 +58,8 @@ Tässä oli listan täyttäminen, kun oli varsin epävarma muutamasta asiasta, e
 ### Booking system: 41 hours and 15 minutes
 ### Cisco: 8 hours and 35 minutes
 ### This final assessment: 1 hour
+
+### Reflection
+Oikeastaan opein, että pitäisi laittaa topicit oikein seuraavan kerran, sillä oli vähän kärsimystä laskea noita, kun oli epäselvää, että mikä kuuluu mihinkin. Muuten pysyn aika lailla kärryillä ja aktiivisesti minä pistin sinne aina kun jotain tuli tehtyä.
+
+
