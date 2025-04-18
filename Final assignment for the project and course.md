@@ -53,7 +53,8 @@ Tässä oli listan täyttäminen, kun oli varsin epävarma muutamasta asiasta, e
 
 [Tässä on Logbook.](https://github.com/JuhaniPaananen/Juhani-s-Logbook/blob/main/README.md)
 
-## Total time: 60 hours and 20 minutes
+## Total time: 60 hours and 10 minutes
 ## Labs time: 9 hours and 30 minutes
 ## Booking system: 41 hours and 15 minutes
-## Cisco: 7 hours and 5 minutes
+## Cisco: 8 hours and 35 minutes
+## This final assessment: 1 hour
