@@ -48,3 +48,7 @@ Sivujen löytäminen oli varmaan hankalin asia, mitä tässä nyt oli. Näin, ku
 
 ### The Booking system project → Phase 4
 Tässä oli listan täyttäminen, kun oli varsin epävarma muutamasta asiasta, että ne piti oikein tongeilla etsi, mutta onneksi huomasin repossa ne lähdekoodit ja databasen, jonka avulla selvisi melkein kaikki asiat. Kahdesta asiasta oli epävarma, mutta muuten olen tyytyväinen.
+
+# Logbook
+
+(link)[https://github.com/JuhaniPaananen/Juhani-s-Logbook/blob/main/README.md]
