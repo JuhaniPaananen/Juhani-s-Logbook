@@ -64,4 +64,4 @@ Oikeastaan opein, että pitäisi laittaa topicit oikein seuraavan kerran, sillä
 
 # Feedback
 
-Ainoa asia oli mielessä tuli aikalaskutus arvioinnissa, että sitä pitäisi laskea ainakin 70:een, kun luulen, että en ikinä tuli käyttämään sitä enempää näihin, kun ei ollut sitä pro versiotakaan.
+Ainoa asia oli mielessä tuli aikalaskutus arvioinnissa, että sitä pitäisi laskea ainakin 70:een, koska tuo 80 tuntia on aivan liian korkea odote mielestäni. Jos pro versio olisi ollut niin sitten.
