@@ -8,7 +8,7 @@ Cisco on mitä nyt muistaa on ihan hyvä alusta opppia. Siinä oppi vähän kaik
 
 # PortSwigger
 
-#### Tehtävät KUVA Tähän!
+![image](https://github.com/user-attachments/assets/a4c879d5-15b9-4c10-b049-422e0458c2f3)
 
 ### Completed Labs
 - 1 Lab: (Access control vulnerabilities) Unprotected admin functionality
