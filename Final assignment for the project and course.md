@@ -4,7 +4,7 @@
 
 ### Reflection
 
-Cisco on mitä nyt muistaa on ihan hyvä alusta. Erittäin hyvä puoli oli prosenteissa määritetty se, mitä on tavallaan nähty eli ei jäänyt mikään huomaamatta. Kirjoitus tehtävät olivat vähän turhia mielestäni varsinkin, jos asioita kysyttiin ennen aiheeseen tutustumissa. Tehtävät meni näppärästi, kun kyseessä oli valmiita vaihtoehtoja eikä tarvinnut itse kirjoittaa vastauksia. Itse kokeet olivat liian pieniä alueeseen nähden, mutta tämä taisikin olla tarkoitus. 
+Cisco on mitä nyt muistaa on ihan hyvä alusta opppia. Siinä oppi vähän kaiken näköistä eli minkä tyyppisiä vaaroja on olemassa ja minkä nimisiä ne on. Varmaan nimet eivät enää päästä löydy, mutta periaatteet on jäänyt. Hyvin selkeni kaikki asiat vaikka en sitä luullutkaan, että ymmärtäisin kaikki asiat, mutta nyt ainakin. 
 
 # PortSwigger
 
@@ -32,3 +32,5 @@ Cisco on mitä nyt muistaa on ihan hyvä alusta. Erittäin hyvä puoli oli prose
 - 19 Lab: User role can be modified in user profile & Lab: Password reset broken logic
 
 ### Reflection
+
+Olen oppinut kuinka hyökkäyksiä tai muita häiriöitä tehdään, mutta en niinkään torjumaan niitä, joka olisi voinut olla joidenkin tehtävien aiheena. Iso valitus mikä minulta on eli pro versio on aika lailla pakollinen, jos haluaa tehdä noita vaativimpia tehtäviä, sillä jotkin elämää helpottavat asioita ollaan rajattu sille versiolla. Mutta muuten on erittäin hyvä alusta oppia.
