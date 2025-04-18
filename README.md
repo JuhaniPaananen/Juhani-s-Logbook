@@ -1,6 +1,6 @@
 # Juhani-s-Logbook
 
-This is my logbook. Total. 59 hours and 20 minutes. Labs Done: 19
+This is my logbook. Total. 60 hours and 20 minutes. Labs Done: 19
 
 
 
@@ -35,6 +35,7 @@ If day is empty, then it's same as next above.
 | Wendesday 16.4  | FINALLYZING The Booking system project → Phase 4 | 2 hours |
 | Thursday 17.4  | TRIED TO DO HARDER LABS and Lab: User ID controlled by request parameter with data leakage in redirect | 1 hour |
 | Friday 18.4  | Lab: DOM XSS in innerHTML sink using source location.search && Lab: DOM XSS in document.write sink using source location.search && Lab: Reflected XSS into HTML context with nothing encoded && Lab: Stored XSS into HTML context with nothing encoded | 30 minutes |
+|   | Final assesment | 1 hour |
 
 
 # Completed Labs:
